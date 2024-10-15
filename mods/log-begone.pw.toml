@@ -1,0 +1,13 @@
+name = "Log Begone"
+filename = "Log-Begone-neoforge-1.20.1-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/kNRTeHhj/Log-Begone-neoforge-1.20.1-1.0.9.jar"
+hash-format = "sha1"
+hash = "ee34a035bdb44757d59221b754c486136c755ff7"
+
+[update]
+[update.modrinth]
+mod-id = "9ON3zv6e"
+version = "kNRTeHhj"

@@ -1,0 +1,13 @@
+name = "Create Mechanical Extruder"
+filename = "create_mechanical_extruder-1.20.1-1.6.3.i-51.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hGAlcCDJ/versions/SEb21Xtm/create_mechanical_extruder-1.20.1-1.6.3.i-51.jar"
+hash-format = "sha1"
+hash = "73d3b4d802b1a9d77170fc27822226a538848bb3"
+
+[update]
+[update.modrinth]
+mod-id = "hGAlcCDJ"
+version = "SEb21Xtm"

@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "56757CC1468C6707",
+    "114B31D85D9D3D10"
+  ],
+  "tasks": {
+    "1050A813B9C02CFB": {
+      "title": "Андезитовые механизмы",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"1050A813B9C02CFB\" quest=\"3E04659B926647A7\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "§a Обзор §a": {
+        "position": [
+          -128,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "kubejs:kinetic_mechanism",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Кинетические механизмы"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

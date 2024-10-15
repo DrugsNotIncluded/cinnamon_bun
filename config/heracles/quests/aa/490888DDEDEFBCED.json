@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "3BEF8E1E52F549D4",
+    "3102FDAB1EBA8C36"
+  ],
+  "tasks": {
+    "30995E6164A4346C": {
+      "title": "Точные механизмы",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"30995E6164A4346C\" quest=\"490888DDEDEFBCED\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "§a Обзор §a": {
+        "position": [
+          -32,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:precision_mechanism",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Точные механизмы"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "610DB5CA14C24C61"
+  ],
+  "tasks": {
+    "02CD4957D074BBD5": {
+      "title": "Андезитовые машины",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"02CD4957D074BBD5\" quest=\"56757CC1468C6707\"/>",
+      "<hr/>",
+      "Открывает первую секцию квестов."
+    ],
+    "groups": {
+      "§a Обзор §a": {
+        "position": [
+          -176,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:andesite_alloy",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Андезитовые машины"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

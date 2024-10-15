@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "1D67640ABC19C723",
+    "7C973D11229DEB3F"
+  ],
+  "tasks": {
+    "3B3266468524D92C": {
+      "title": "Индуктивные механизмы",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"3B3266468524D92C\" quest=\"284A6AA9F6FB4CD5\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "§a Обзор §a": {
+        "position": [
+          64,
+          -16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "kubejs:inductive_mechanism",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Индуктивные механизмы"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

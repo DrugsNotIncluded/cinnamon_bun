@@ -1,0 +1,13 @@
+name = "Mana Unification"
+filename = "manaunification-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VC9P1w0f/versions/5LhK07tC/manaunification-1.20.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "21d6433c3e7403235bcd6a476f5eaf30b8c1ebfe"
+
+[update]
+[update.modrinth]
+mod-id = "VC9P1w0f"
+version = "5LhK07tC"

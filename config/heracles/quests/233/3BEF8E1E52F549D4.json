@@ -1,0 +1,49 @@
+{
+  "dependencies": [
+    "5C80F812E8C807D6",
+    "141F2FF51784B313"
+  ],
+  "tasks": {
+    "33EB09729D80004E": {
+      "title": "Точное приспособление",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"33EB09729D80004E\" quest=\"3BEF8E1E52F549D4\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "2. §3 Латунный век §3": {
+        "position": [
+          32,
+          256
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "kubejs:brass_machine",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Точное приспособление"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

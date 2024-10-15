@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "3AEDE007060E17BB": {
+      "title": "Sophisticated storage",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"3AEDE007060E17BB\" quest=\"50B8D701FA0E9D81\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "0. §7 Для новеньких §7": {
+        "position": [
+          224,
+          -192
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "storagedrawers:oak_full_drawers_1",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Sophisticated storage"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "2C7441A2EF2031B8"
+  ],
+  "tasks": {
+    "26DAFE67EFD49456": {
+      "title": "Механизмы: 1 тир",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"26DAFE67EFD49456\" quest=\"114B31D85D9D3D10\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "1. §2 Базовые машины §2": {
+        "position": [
+          -16,
+          144
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "kubejs:andesite_machine",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Механизмы: 1 тир"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,13 @@
+name = "Create: Halitosis"
+filename = "createhalitosis-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOgR2kut/versions/iy3g64aq/createhalitosis-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "a0026bf92e61f50382352312a8658daac99a99ad"
+
+[update]
+[update.modrinth]
+mod-id = "MOgR2kut"
+version = "iy3g64aq"

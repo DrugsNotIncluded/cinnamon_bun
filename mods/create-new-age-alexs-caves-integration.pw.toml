@@ -1,0 +1,13 @@
+name = "Create: New Age / Alex's Caves Integration"
+filename = "newagealexscaves-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IadZrExy/versions/1AKYiv8B/newagealexscaves-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "b1005d83d38ff4fd66658881fb2bd31449f708a9"
+
+[update]
+[update.modrinth]
+mod-id = "IadZrExy"
+version = "1AKYiv8B"

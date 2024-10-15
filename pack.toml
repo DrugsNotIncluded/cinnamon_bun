@@ -1,0 +1,17 @@
+name = "BulkaSKorizei"
+author = "4eburek"
+version = "0.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1564667d95f379e37818ae2117ad34fa661de22959aa2d77e6d50dc56fb52906"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.105"
+
+[options]
+acceptable-game-versions = []
+datapack-folder = "config/openloader/data"

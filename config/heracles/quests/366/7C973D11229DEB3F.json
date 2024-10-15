@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "3C05CA996018EEAB",
+    "381468CAC228F22A"
+  ],
+  "tasks": {
+    "1925BCACA64FFB33": {
+      "type": "heracles:item",
+      "item": "kubejs:machine_frame",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"1925BCACA64FFB33\" quest=\"7C973D11229DEB3F\"/>",
+      "<hr/>"
+    ],
+    "groups": {
+      "3. §6 Хроматические манипуляции §6": {
+        "position": [
+          128,
+          144
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "kubejs:machine_frame",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "text": "Механизмы: 3 тир"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

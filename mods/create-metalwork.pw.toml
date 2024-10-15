@@ -1,0 +1,13 @@
+name = "Create: Metalwork"
+filename = "create-metalwork-1.20.1-1.0.7-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q5i9RTSJ/versions/UT0deM7u/create-metalwork-1.20.1-1.0.7-forge.jar"
+hash-format = "sha1"
+hash = "e6eb84ed394a551172764466048758df9bac1ba1"
+
+[update]
+[update.modrinth]
+mod-id = "q5i9RTSJ"
+version = "UT0deM7u"

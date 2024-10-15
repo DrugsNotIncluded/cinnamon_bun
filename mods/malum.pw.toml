@@ -1,0 +1,13 @@
+name = "Malum"
+filename = "malum-1.20.1-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jgzwYsAN/versions/59Xhi91C/malum-1.20.1-1.6.2.jar"
+hash-format = "sha1"
+hash = "3e58572502e998a07b76f25b5039fb72d9543d43"
+
+[update]
+[update.modrinth]
+mod-id = "jgzwYsAN"
+version = "59Xhi91C"
