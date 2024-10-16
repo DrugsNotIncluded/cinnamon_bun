@@ -899,7 +899,6 @@ function sandpaperPolishingDdSandingCompat(event) {
 function destroyArcFurnaceAlloysCompat(event) {
  
   
-  
 }
 
 ServerEvents.recipes(event => {
@@ -924,6 +923,5 @@ ServerEvents.recipes(event => {
 })
 
 ServerEvents.tags('item', event => {
-	//event.add(F('saws'),"kubejs:iron_saw")
     event.add(F("screwdrivers"), "kubejs:screwdriver")
 })

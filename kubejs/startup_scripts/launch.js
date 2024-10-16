@@ -19,10 +19,17 @@ StartupEvents.registry('item', event => {
 		event.create(id + '_mechanism').texture("kubejs:item/" + id + "_mechanism").displayName(name + ' Mechanism').rarity(rarity ? rarity : 'COMMON')
 		event.create('incomplete_' + id + '_mechanism').texture("kubejs:item/incomplete_" + id + "_mechanism").displayName('Incomplete ' + name + ' Mechanism')
 	}
+
+	let enchanted_mechanism = (name, rarity) => {
+		let id = name.toLowerCase()
+		event.create(id + '_mechanism').texture("kubejs:item/" + id + "_mechanism").displayName(name + ' Mechanism').rarity(rarity ? rarity : 'COMMON')
+		event.create('incomplete_' + id + '_mechanism').glow(true).texture("kubejs:item/incomplete_" + id + "_mechanism").displayName('Incomplete ' + name + ' Mechanism')
+	}
+
     mechanism('Kinetic')
 	mechanism('Inductive', 'UNCOMMON')
 	mechanism('Abstruse', 'RARE')
-	mechanism('Magical', 'MAGICAL')
+	enchanted_mechanism('Magical', 'MAGICAL')
 
 	event.create('nickel_compound').texture("kubejs:item/nickel_compound").displayName('Nickel Compound')
     event.create('invar_compound').texture("kubejs:item/invar_compound").displayName('Unprocessed Invar Ingot')
